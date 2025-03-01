@@ -28,12 +28,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmx143&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmx143&layout=compact&theme=tokyonight)
 
-<a href="https://github.com/fmx143/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmx143&repo=github-readme-stats&theme=buefy" />
-</a>
-
-
-
 Feel free to explore my repos and reach out if you'd like to collaborate!
 
 🚀 Happy Coding! 🚀
