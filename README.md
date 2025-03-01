@@ -31,12 +31,7 @@
 <a href="https://github.com/fmx143/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmx143&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/fmx143/fmx143.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmx143&repo=fmx143.github.io&theme=buefy" />
-</a>
 
-<br />
-<br />
 
 
 Feel free to explore my repos and reach out if you'd like to collaborate!
