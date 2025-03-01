@@ -1,19 +1,20 @@
 
 ## Hi there, I'm Loïc 👋 
 
-## I'm a Project Manager, junior fullstack developer, forex-crypto addict, woodlover, and motorcycle rider!
+## I'm a Project Manager, junior fullstack developer and forex-crypto python enthousiast.
 
-- 🌱 I’m currently learning Data analysis, Python and solidity for cryptos and NFTs
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Python and SQL for web, data and machine learning.
+- 👯 I’m looking to collaborate with other content creators.
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lo%C3%AFc-chapuis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-chapuis" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/loic-chapuis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-chapuis" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg" alt="ruby" width="60" height="60"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
