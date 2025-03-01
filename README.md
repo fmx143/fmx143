@@ -23,9 +23,6 @@
 
 ---
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmx143&show_icons=true&theme=tokyonight)
@@ -40,13 +37,6 @@
 
 <br />
 <br />
-
-<a href="https://twitter.com/fmx143">
-  <img align="right" alt="fmx143 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/fmx143">
-  <img align="right" alt="fmx143 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
 
 Feel free to explore my repos and reach out if you'd like to collaborate!
