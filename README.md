@@ -26,16 +26,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loic-chapuis&show_icons=true&locale=en&layout=compact" alt="loic-chapuis" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
----
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loic-chapuis)
 
 Feel free to explore my repos and reach out if you'd like to collaborate!
 
 🚀 Happy Coding! 🚀
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
