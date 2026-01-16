@@ -29,31 +29,14 @@ I am primarily a **Project Manager & Product Owner**, Quantitative & Algorithmic
 ### GitHub Statistics 📊
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fmx143&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="fmx143's stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmx143&layout=compact&theme=buefy&hide_border=true" alt="Most used languages" height="180px" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmx143&theme=buefy&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### Employer? 💼
-> [!IMPORTANT]  
-> If you are looking for a Quantitative Developer or Data Engineer:
-> <a href="https://fmx143.github.io/fmx143.io/" target="_blank">**Download My Resume / View Portfolio**</a>
-
----
-
 ### Connect with me! 📫
 <div>
-    <a href="https://linkedin.com/in/your-profile">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="mailto:your-email@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+    <a href="https://linkedin.com/in/loïc-chapuis">
+        <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="50" height="50"/>
     </a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70d1f4&height=120&section=footer" alt="footer"/>
