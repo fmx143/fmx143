@@ -1,12 +1,8 @@
-<table>
-        <tr>
-            <p align="left">
-                <a href="https://github.com/DenverCoder1/readme-typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=100&color=70d1f4&width=435&lines=Hello,+I'm+Loïc;Project+Manager;Product+Owner;Quantitative+Researcher;Algorithmic+Trader;Software+engineer"/>                    
-                </a>
-            </p>      
-        </tr>
-</table>
+<p align="left">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=100&color=70d1f4&width=435&lines=Hello,+I'm+Loïc;Project+Manager;Product+Owner;Quantitative+Researcher;Algorithmic+Trader;Software+engineer"/>                    
+        </a>
+</p>      
 
 ### About Me 📖
 I am primarily a **Project Manager & Product Owner**, Quantitative & Algorithmic Trader focused on the intersection of finance and technology. I build automated systems that turn complex market data into actionable trading strategies.
