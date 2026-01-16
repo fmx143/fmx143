@@ -15,7 +15,7 @@ I am a **Quant Researcher & Algorithmic Trader** focused on the intersection of 
 ---
 
 ### Main Skills & Stack ⚙️
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,docker,postgres,linux,vscode,html,css,bash,matlab,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,matlab,C++,arduino,r,ruby,html,css,js,sql,postgres,sqlite,github,git,gitlab,docker,vscode,linux,ubuntu,windows,apple)](https://skillicons.dev)
 
 ---
 
