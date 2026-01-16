@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70d1f4&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=70d1f4&width=435&lines=Hello,+I'm+fmx143;Quant+Researcher;Algorithmic+Trader" alt="Quant Researcher"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=100&color=70d1f4&width=435&lines=Hello,+I'm+Loïc;Project+Manager;Product+Owner;Quantitative+Researcher;Algorithmic+Trader;Software+engineer" alt="Quant Researcher"/>
 </a>
 
 ### About Me 📖
-I am a **Quant Researcher & Algorithmic Trader** focused on the intersection of finance and technology. I build automated systems that turn complex market data into actionable trading strategies.
+I am primarily a **Project Manager & Product Owner**, Quantitative & Algorithmic Trader focused on the intersection of finance and technology. I build automated systems that turn complex market data into actionable trading strategies.
 
 - ⚡ **Currently:** Developing [Jupyter-Bot](https://github.com/fmx143/Jupyter-Bot), an advanced backtesting engine for Forex markets.
 - 🚀 **Portfolio:** Maintaining [fmx143.io](https://fmx143.github.io/fmx143.io/) to showcase my latest quantitative research.
-- 🧠 **Learning:** Machine Learning for Time Series and High-Frequency Trading (HFT).
-- 💬 **Let's talk about:** Python, Quantitative Analysis, and Data Engineering.
+- 🧠 **Learning:** Machine Learning for Prediction Models and Time Series and High-Frequency Trading (HFT).
+- 💬 **Let's talk about:** Python, Finance, Quantitative Analysis, and Data Engineering.
 
 ---
 
