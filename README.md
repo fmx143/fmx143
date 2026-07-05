@@ -7,7 +7,7 @@
 ### About Me 📖
 I am primarily a **Project Manager & Product Owner**, Quantitative & Algorithmic Trader focused on the intersection of finance and technology. I build automated systems that turn complex market data into actionable trading strategies.
 
-- ⚡ **Currently:** Developing [Jupyter-Bot](https://github.com/fmx143/Jupyter-Bot), an advanced backtesting engine for Forex markets.
+- ⚡ **Currently:** Building [RAG-Bachelor](https://github.com/fmx143/RAG-Bachelor), a local-first RAG study assistant (FastAPI + ChromaDB + Ollama) with spaced-repetition learning.
 - 🚀 **Portfolio:** Maintaining [fmx143.io](https://fmx143.github.io/fmx143.io/) to showcase my latest quantitative research.
 - 🧠 **Learning:** Machine Learning for Prediction Models and Time Series and High-Frequency Trading (HFT).
 - 💬 **Let's talk about:** Python, Finance, Quantitative Analysis, and Data Engineering.
@@ -20,8 +20,18 @@ I am primarily a **Project Manager & Product Owner**, Quantitative & Algorithmic
 ---
 
 ### Key Projects 📌
+
+**Quant & Algorithmic Trading**
+* 🔒 **QuantForge** `Private` : Local-first quantitative backtesting engine — hand-rolled **vectorized Numba kernel** (no look-ahead), declarative **YAML** multi-timeframe strategies, **grid/Optuna** optimization & **walk-forward**, driven by a **React + TypeScript** UI over **FastAPI**.
+* 📈 [**Quantstrategy**](https://github.com/fmx143/Quantstrategy) : End-to-end Forex research sandbox — **Backtrader**/**vectorbt** backtesting, **Optuna** hyperparameter optimization, and live execution on **MetaTrader 5**.
 * 📓 [**Jupyter-Bot**](https://github.com/fmx143/Jupyter-Bot) : Python-based backtesting engine using **Backtrader**. Implements EMA crossovers, Bollinger Bands, and ATR-based risk management.
-* 🌊 [**Data-Stream**](https://github.com/fmx143/Data-Stream) : A repository for high-performance financial data cleaning and stream handling.
+* 🌊 [**Data-Stream**](https://github.com/fmx143/Data-Stream) : High-performance financial data cleaning and stream handling.
+
+**AI & Machine Learning**
+* 🤖 [**RAG-Bachelor**](https://github.com/fmx143/RAG-Bachelor) : Local-first study assistant that indexes PDF course material into **ChromaDB**, answers with citations via **Ollama**, and tracks mastery with **SM-2** spaced repetition (**FastAPI** + HTMX).
+* 🧪 [**ml-portfolio**](https://github.com/fmx143/ml-portfolio) : Progressive machine-learning notebooks (regression, classification, and more) built with **scikit-learn** in an "explain-before-code" style.
+
+**Portfolio**
 * 🎨 [**fmx143.io**](https://github.com/fmx143/fmx143.io) : My professional portfolio documenting my journey in Quant Finance.
 
 ---
